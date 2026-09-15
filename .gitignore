@@ -1,0 +1,23 @@
+# Dataset
+Dataset/
+
+# Power BI temporary/recovery files
+*.pbi-tools
+*.tmp
+*.bak
+~$*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Windows files
+Thumbs.db
+Desktop.ini
