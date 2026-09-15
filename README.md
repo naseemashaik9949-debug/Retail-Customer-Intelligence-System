@@ -58,3 +58,20 @@ Retail-Customer-Intelligence-System/
 │   └── SQL analysis scripts
 │
 └── README.md
+---
+
+## 📊 Power BI Dashboard
+
+The Power BI dashboard provides an interactive view of retail sales, profitability, customer performance, and product-level insights.
+
+### Executive Overview
+
+![Power BI Executive Overview](Screenshots/PowerBI_Executive_Overview.png)
+
+### Customer Analysis
+
+![Power BI Customer Analysis](Screenshots/PowerBI_Customer_Analysis.png)
+
+### Product & Profitability Analysis
+
+![Power BI Product Profitability](Screenshots/PowerBI_Product_Profitability.png)
